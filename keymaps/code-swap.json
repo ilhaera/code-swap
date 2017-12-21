@@ -1,0 +1,7 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-o": "code-swap:toggle",
+    "ctrl-alt-q": "code-swap:generate",
+    "ctrl-alt-a": "code-swap:switchToggle"
+  }
+}

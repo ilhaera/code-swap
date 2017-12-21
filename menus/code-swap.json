@@ -1,0 +1,30 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle code-swap",
+        "command": "code-swap:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "code-swap",
+          "submenu": [
+            {
+              "label": "Generate",
+              "command": "code-swap:generate"
+            },
+            {
+              "label": "Swap",
+              "command": "code-swap:switchToggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

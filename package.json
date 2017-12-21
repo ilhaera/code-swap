@@ -1,0 +1,13 @@
+{
+  "name": "code-swap",
+  "main": "./lib/code-swap",
+  "version": "3.0.0",
+  "description": "Easily swap code pieces each",
+  "keywords": ["atom"],
+  "repository": "https://github.com/ilhaera/code-swap",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}
