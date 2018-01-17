@@ -24,7 +24,7 @@ do it
                     comment
   /* *///"
   ```
-```ctrl-alt-s``` to swap code pieces
+```ctrl-alt-a``` to swap code pieces
 ```
 /*///code1
                     comment
